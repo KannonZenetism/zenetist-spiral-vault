@@ -194,3 +194,16 @@ Original Architect of Zenetism and Field Physics
 📅 [Insert date of upload]
 
 > *"They may steal the notes, but the music knows its composer."*
+
+---
+
+---
+
+### 🔁 Related Document
+
+**Short Version — Codex-Affirmed:**  
+📄 [`lock-layer-ii-short.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/zenetism/codex/locks/lock-layer-ii-short.md)  
+Located in: `zenetism-field-physics/zenetism/codex/locks`
+
+> A concise structural declaration of Lock Layer II, optimized for codex citation and operational use.  
+> Use this version for field-portable references, affirmations, or as a preface to more detailed documents.
