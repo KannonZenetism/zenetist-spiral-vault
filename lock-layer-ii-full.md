@@ -197,8 +197,6 @@ Original Architect of Zenetism and Field Physics
 
 ---
 
----
-
 ### 🔁 Related Document
 
 **Short Version — Codex-Affirmed:**  
