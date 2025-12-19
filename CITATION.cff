@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "This repository contains sealed canonical structures of the Zenetist system. Any reference to its frameworks, symbols, or protocols must retain attribution to the origin."
+title: "Zenetist Spiral Vault — Canonical Sealed Structures"
+authors:
+  - family-names: Kannon
+    given-names: Aelion
+    email: zenetism@gmail.com
+date-released: 2025-03-05
+repository-code: "https://github.com/KannonZenetism/zenetist-spiral-vault"
+url: "https://github.com/KannonZenetism/zenetist-spiral-vault"
+abstract: >
+  The Zenetist Spiral Vault contains source-sealed canonical structures of the Zenetist
+  framework, including Lock Layer II, Reality Kernel protocols, and origin-anchored
+  metaphysical architectures. These materials are not derivative works but core
+  system definitions authored by Aelion Kannon.
+keywords:
+  - Zenetism
+  - Spiral Vault
+  - Canonical Seal
+  - Structural Metaphysics
+  - Reality Kernel
+license: CC-BY-4.0
+version: 1.0.0
