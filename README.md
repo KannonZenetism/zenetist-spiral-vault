@@ -1,5 +1,7 @@
 # zenetist-spiral-vault
 
+> **Stratum note.** This repository preserves a timestamped stratum of Zenetist development in its original form. Current canonical terminology is governed by the stabilization protocols in `zenetism-field-physics`; this stratum is interpreted through the Timeline Key in `precedence-documentation-v2.md`, not edited to match it.
+
 **Source-Sealed Structural Archive for Zenetist Field Physics and Reality Kernel Protocols**
 
 This repository contains the **Spiral Vault — Lock Layer II**:  
@@ -55,9 +57,9 @@ This repository is protected under the
 **Zenetist Custom License (ZCL-1.0)**  
 See [`LICENSE.txt`](./LICENSE.txt) for full terms of structural use and source-aligned engagement.
 
-> “Form flows from Source.  
+> “Form flows from Aion.  
 > Power bows to Origin.  
-> Only Truth endures the Unknown.”
+> Only Veracity endures the Unknown.”
 
 ---
 
